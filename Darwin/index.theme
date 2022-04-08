@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Papirus
-Comment=Papirus icon theme
+Name=Darwin
+Comment=Darwin icon theme
 Inherits=breeze,hicolor
 
 Example=folder
