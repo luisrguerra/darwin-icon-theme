@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <rect style="opacity:0.2" width="20" height="18" x="1" y="2.5" rx="1.5" ry="1.5"/>
- <rect style="fill:#4f4f4f" width="20" height="18" x="1" y="2" rx="1.5" ry="1.5"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 2.5,2 C 1.669,2 1,2.669 1,3.5 V 4 C 1,3.169 1.669,2.5 2.5,2.5 h 17 C 20.331,2.5 21,3.169 21,4 V 3.5 C 21,2.669 20.331,2 19.5,2 Z"/>
- <rect style="opacity:0.2" width="6" height="2" x="9" y="10.5" rx=".5" ry=".5"/>
- <rect style="fill:#ffffff" width="6" height="2" x="9" y="10" rx=".5" ry=".5"/>
- <rect style="opacity:0.2" width="6.122" height="2.041" x="-6.31" y="10.14" rx=".51" ry=".51" transform="matrix(0.72685813,-0.68678763,0.72685813,0.68678763,0,0)"/>
- <rect style="fill:#a2a2a2" width="6.122" height="2.041" x="-5.95" y="9.78" rx=".51" ry=".51" transform="matrix(0.72685813,-0.68678763,0.72685813,0.68678763,0,0)"/>
- <rect style="opacity:0.2" width="6.122" height="2.041" x="6.06" y="-2.23" rx=".51" ry=".51" transform="matrix(0.72685813,0.68678763,0.72685813,-0.68678763,0,0)"/>
- <rect style="fill:#ffffff" width="6.122" height="2.041" x="5.7" y="-1.87" rx=".51" ry=".51" transform="matrix(0.72685813,0.68678763,0.72685813,-0.68678763,0,0)"/>
-</svg>
+<svg height="16px" width="16px" id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><defs><style>.cls-1{fill:#c3ccd0;}.cls-2{fill:#030000;}.cls-3{fill:#262626;}.cls-4{fill:#fff;}</style></defs><rect class="cls-1" x="2" y="2" width="28" height="28" rx="6.5008"/><rect class="cls-2" x="3.0012" y="3.0157" width="25.9969" height="25.9685" rx="5.4998"/><rect class="cls-3" x="4.4999" y="4.5156" width="22.9998" height="22.9998" rx="3.9998"/><path class="cls-4" d="M7.5,8.099V7.0233L11,9.0155v1.0154L7.5,12.0231V10.9474l2.6344-1.42Z"/><rect class="cls-4" x="12" y="12" width="4" height="1"/></svg>
