@@ -1,0 +1,9 @@
+Source: darwin-icon-theme
+Priority: optional
+Maintainer: Luis Guerra
+Standards-Version: 0.1.8
+Essential: no
+Package: darwin-icon-theme
+Architecture: all
+Homepage: https://github.com/luisrguerra/darwin-icon-theme
+Description: Darwin icon theme.
