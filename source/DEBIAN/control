@@ -1,7 +1,7 @@
 Source: darwin-icon-theme
 Priority: optional
 Maintainer: Luis Guerra
-Version: 0.2
+Version: 0.2.2
 Essential: no
 Package: darwin-icon-theme
 Architecture: all
